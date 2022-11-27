@@ -21,7 +21,7 @@ Using QuickDBD as a tool, I had to map together the different CSV files. By work
 when pulling together information. It shows me how to get from point A to point C; while connecting all the gotes.
 
 ## Data Engineering
-First I needed to import all of the csv files, utilizing the primary and foreign keys that I mapped out. In this step, I needed to add to the intial modeling portion; adding in the field (column types - varchar, int, etc), along with adding in the primary and foreign keys. It is important to add the CSV's in the correct order.
+First I needed to import all of the csv files, utilizing the primary and foreign keys that I mapped out. In this step, I needed to add to the intial modeling portion; adding in the field (column types - varchar, int, etc), along with adding in the primary and foreign keys. It is important to add the CSV's in the correct order. I did this by creating the tables; and then importing each file of data into the built tables.  Data needs to be imported specifically in this order.
 - departments
 - titles
 - employees
