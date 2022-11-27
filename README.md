@@ -60,9 +60,13 @@ Needing to validate some of the data, I utilized my query tools to find the list
 
 
 ## Bonus
-While working on the project, I haven't yet determined if this is just a dead-end task.  To ensure that project validity, I am goign to create some graphs to show salary ranges. I created a 2 charts
+While working on the project, I haven't yet determined if this is just a dead-end task.  To ensure that project validity, I am goign to create some graphs to show salary ranges. I created a 2 charts to show this informaiton.
 - Most Common Salary Ranges
+    ![image](https://user-images.githubusercontent.com/113635771/204161949-394243d6-5522-45a8-b2be-7dbc0c373b48.png)
+    
 - Average Salary by Job Title
+    ![image](https://user-images.githubusercontent.com/113635771/204161971-431b91c0-b9b5-42ab-a4ae-f59158ec1c38.png)
+
 
 ## Personal Impressions
 I enjoyed this challenge project, even though Postgres caused me some issues, especially when importing in my csv file informaiton. This challenge seemed to relate well with what I am anticipating my additional duties at work becoming.  Taking information - querying as needed (while saving those queries for future use), created table so view and validate data; and then graph creation for powerpoint usage to show results to physician or hospital leadership. 
