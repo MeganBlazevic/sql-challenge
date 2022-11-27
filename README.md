@@ -34,14 +34,30 @@ Needing to validate some of the data, I utilized my query tools to find the list
 
 - Answering the following questions. All questions have queries saved as csv files.
 
-    1. List the employee number, last name, first name, sex, and salary of each employee
+    1. List the employee number, last name, first name, sex, and salary of each employee.
+       ![image](https://user-images.githubusercontent.com/113635771/204161655-72bf183c-bf3b-47f0-940b-d070ddf3c0a4.png)
+
     2. List the first name, last name, and hire date for the employees who were hired in 1986.
-    3. List the manager of each department along with their department number, department name, 
+        ![image](https://user-images.githubusercontent.com/113635771/204161574-b753bb8a-1877-4e2b-9eac-8033f102215b.png)  
+    
+    3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
+        ![image](https://user-images.githubusercontent.com/113635771/204161681-876267a5-4058-4ff8-8b45-57505623ff97.png)
+
     4. List the department number for each employee along with the employee's employee number, last name, first name, and department name. 
-    5. List first name, last name, and sex of employee whose first name is Hercules and whose last begins with letter B
+        ![image](https://user-images.githubusercontent.com/113635771/204161696-bb800f90-b885-4f83-8f2d-63890940b89b.png)
+ 
+    5. List first name, last name, and sex of employee whose first name is Hercules and whose last begins with letter B.
+        ![image](https://user-images.githubusercontent.com/113635771/204161711-f3ca0547-eb7c-45dc-8850-c345fd9d5ae1.png)
+    
     6. List each employee in the Sales department, including their employee number, last name, and first name. 
+        ![image](https://user-images.githubusercontent.com/113635771/204161725-a4b70496-c502-4fdb-9387-6d9aa27d88d2.png)
+
     7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+        ![image](https://user-images.githubusercontent.com/113635771/204161746-c4bed4b0-e987-4b67-ac90-3271ace19f74.png)
+
     8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+        ![image](https://user-images.githubusercontent.com/113635771/204161754-72c3d0a1-a3c1-4fcd-9943-ddc74ef893e0.png)
+
 
 ## Bonus
 While working on the project, I haven't yet determined if this is just a dead-end task.  To ensure that project validity, I am goign to create some graphs to show salary ranges. I created a 2 charts
